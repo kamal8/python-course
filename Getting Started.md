@@ -273,3 +273,6 @@ which will spin up an interactive python session.
 If this was hard, or you struggled, please don't worry. Some of this setup is tricky. We wanted to take the time this week to make sure everyone is set up correctly, so when we start working on projects next week we're all on the same page/system. 
 ​
 Feel free to reach out to any of the instructors, and we'll find the time to sit down and get you set up correctly.
+
+# Alternatives to Setting Python on your own Machine.
+Today its easier than ever to start coding with minimal barriers. If you dont want to setup anything on your own device, you can write code on online available resources. One of the best online coding environment is https://www.replit.com. You can follow this [tutorial](https://www.freecodecamp.org/news/how-to-use-replit/) to signup and start coding there.
