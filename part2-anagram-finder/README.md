@@ -19,7 +19,7 @@ print(your_instructor== 'Vader')
 print(your_instructor== 'Obi-Wan')
 ```
 
-![python-equal-comparison](../part2-img-anagram-finder/python-equal-comparison.png)
+![python-equal-comparison](./part2-img-anagram-finder/python-equal-comparison.png)
 
 After running your script from the terminal, you should note how you would get either a boolean type `True` or `False` from python, depending on whether the condition is correct or not.
 
